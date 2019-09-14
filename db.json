@@ -1,16 +1,11 @@
-{
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
-}
+[
+  { "id": 1,
+    "player": "CRINGE",
+   "status": true },
+  { "id":2,
+    "player": "Ike",
+    "status": true  },
+  { "id": 3,
+    "player": "Apprentice",
+    "status": true  }
+]
