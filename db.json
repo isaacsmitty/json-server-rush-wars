@@ -1,11 +1,14 @@
-[
-  { "id": 1,
-    "player": "CRINGE",
-   "status": true },
-  { "id":2,
-    "player": "Ike",
-    "status": true  },
-  { "id": 3,
-    "player": "Apprentice",
-    "status": true  }
-]
+{
+  "teamStatus":
+    [
+      { "id": 1,
+        "player": "CRINGE",
+      "status": true },
+      { "id":2,
+        "player": "Ike",
+        "status": true  },
+      { "id": 3,
+        "player": "Apprentice",
+        "status": true  }
+    ]
+}
