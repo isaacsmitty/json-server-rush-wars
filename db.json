@@ -1,5 +1,6 @@
 {
-  "data":
+  "teamStatus":
+    [
       { "id": 1,
         "player": "CRINGE",
         "status": true },
